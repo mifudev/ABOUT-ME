@@ -9,3 +9,6 @@ ufim?
 
 ### chill ###
 but don't upset me because you might end up wrong
+
+### and ###
+big fan of https://anonhakerzy.club/
