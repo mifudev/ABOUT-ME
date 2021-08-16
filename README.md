@@ -1,4 +1,4 @@
 ## ABOUT MIFU ##
-I like programming<br>
-I like c++
+<color="yellow">I like programming<br>
+I like c++<br>
 nothing else
