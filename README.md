@@ -1,7 +1,7 @@
 # MIFU? #
 ## ABOUT MIFU ##
-I like programming<br>
-I like c++<br>
+like programming<br>
+like c++<br>
 nothing else
 
 ### mifu? ###
